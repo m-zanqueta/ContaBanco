@@ -1,4 +1,4 @@
-# Conta bANCO
+# Conta Banco
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/ContaBanco?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/ContaBanco?style=for-the-badge)
